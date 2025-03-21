@@ -11,7 +11,7 @@ I am currently a PhD student in School of Computing and Information Systems at U
 
 **Research Interest**
 
-My research interests are in DB for AI and AI for DB. I'm also interested in cross - modal retrieval, large language models and graph database. I aspire to integrate academic innovation and industrial value within my research, aiming to bridge the gap between theoretical advancements and practical applications.
+My research interests are in DB for AI and AI for DB. I'm also interested in large language model and cross modal retrieval. I aspire to integrate academic innovation and industrial value within my research, aiming to bridge the gap between theoretical advancements and practical applications.
 
 **Publication**
 
