@@ -15,8 +15,4 @@ My research interests are in DB for AI and AI for DB. I'm also interested in cro
 
 **Publication**
 
-On Min–Max Storage for Resource-Restricted Clients in Coded Blockchain Systems
-
-Changlin Yang, Xiaodong Wang, Zigui Jiang, Ying Liu, Fengnian Lin, Zibin Zheng
-
-IEEE Internet of Things Journal
+Changlin Yang, Xiaodong Wang, Zigui Jiang, Ying Liu, Fengnian Lin, and Zibin Zheng. “On Min-Max Storage for Resource Restricted Clients in Coded Blockchain Systems”, IEEE Internet of Things Journal, 2023.
