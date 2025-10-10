@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a PhD student in School of Computing and Information Systems at University of Melbourne, supervised by  Prof. [Junhao Gan](https://sites.google.com/site/junhogan/) and [William Umboh](https://williamumboh.com). Before this, from September 2024 to February 2025, I served as a Foreign Trade Manager at Xianwei Technology (Shenzhen). This is an unforgettable and precious experience for me. During this period, I also worked part-time as a remote research assistant at HKUST(gz). I obtained a bachelor's degree from Sun Yat-sen University in 2024. 
+I am currently a PhD student in School of Computing and Information Systems at University of Melbourne, supervised by  Prof. [Junhao Gan](https://sites.google.com/site/junhogan/) and [William Umboh](https://williamumboh.com). Before this, from September 2024 to February 2025, I served as a Foreign Trade Manager at Xianwei Technology (Shenzhen). This is an unforgettable and precious experience for me. I obtained a bachelor's degree from Sun Yat-sen University in 2024. 
 
 **Research Interest**
 
