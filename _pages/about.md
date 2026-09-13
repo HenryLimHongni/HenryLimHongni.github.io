@@ -15,6 +15,7 @@ I am currently a PhD student in School of Computing and Information Systems at U
 Currently, my research focuses on developing efficient algorithms for graph databases. In the long term, I aim to build high-performance database systems that effectively support AI applications.
 
 **Publication**
+[SIGMOD 2027] Fengnian Lin, Junhao Gan, Lijun Chang, William Umboh. "Efficient Higher Order Truss Decomposition on Graphs" (To appear).
 
 [KDD 2025] Fengnian Lin, Boyu Ruan, Junhao Gan, Lei Li. "Efficient Bitruss Decomposition without Butterfly Enumeration".
 
