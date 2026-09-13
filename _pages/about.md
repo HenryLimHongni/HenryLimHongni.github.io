@@ -24,4 +24,4 @@ Currently, my research focuses on developing efficient algorithms for graph data
 
 **Other Experiences**
 
-I launched a side business in international education consulting after my undergraduate graduation, but I stopped running it when I began my PhD in 2025. I am also a stock investment enthusiast, but the profit is very limited so far.
+I launched a side business in international education consulting after my undergraduate graduation, but I stopped running it when I began my PhD study in 2025. I am also a stock investment enthusiast, but the profit is very limited so far.
